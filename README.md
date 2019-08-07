@@ -1,0 +1,2 @@
+# NuxtTypeVuetify
+Nuxt-TypeScript-Vuetify
